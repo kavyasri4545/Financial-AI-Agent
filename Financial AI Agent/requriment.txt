@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+yfinance
+scikit-learn
+tensorflow
+keras
+transformers
+torch
+requests
+beautifulsoup4
+lxml
+scipy
